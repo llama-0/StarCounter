@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Star Counter</string>
+
+    <string name="count">Count</string>
+    <string name="zero_stars">0 stars</string>
+
+    <plurals name="numberOfStars">
+        <item quantity="one">%1$d star</item>
+        <item quantity="other">%1$d stars</item>
+    </plurals>
+</resources>

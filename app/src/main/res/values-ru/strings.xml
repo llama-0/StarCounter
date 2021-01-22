@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Подсчёт звёзд</string>
+
+    <string name="count">Считать!</string>
+    <string name="zero_stars">0 звёзд</string>
+
+    <plurals name="numberOfStars">
+        <item quantity="one">%d звезда</item>
+        <item quantity="few">%d звезды</item>
+        <item quantity="many">%d звёзд</item>
+        <item quantity="other">%d звёзд</item>
+    </plurals>
+</resources>
