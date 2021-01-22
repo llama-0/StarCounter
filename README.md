@@ -1,4 +1,4 @@
-# StringResExample
+# Star counter
 Test app which uses plurals with localization and string formatting
 
 Usefull resources:
